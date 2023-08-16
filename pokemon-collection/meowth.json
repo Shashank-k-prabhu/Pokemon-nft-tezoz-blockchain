@@ -1,0 +1,23 @@
+{
+  "decimals": 0,
+  "isBooleanAmount": true,
+  "name": "meowth",
+  "description": "A meowth nft card",
+  "tags": ["cat", "pokemon", "nft"],
+  "minter": "tz1gTKRRLpQ1f7ndB4JZRHMuELvi6XPRZsbL",
+  "artifactUri": "ipfs://QmTFSpf92bZ1YU91x7shRGE5AvhuoJmFCiCoKWHDerqqR4",
+  "displayUri": "ipfs://QmTFSpf92bZ1YU91x7shRGE5AvhuoJmFCiCoKWHDerqqR4",
+  "thumbnailUri": "ipfs://QmTFSpf92bZ1YU91x7shRGE5AvhuoJmFCiCoKWHDerqqR4",
+  "creators": ["Shashank k Prabhu"],
+  "rights": "None",
+  "attributes": [
+    {
+      "name": "Rasengan",
+      "value": "Fire Attack"
+    },
+    {
+      "name": "Shurikin",
+      "value": "Hot Air Attack"
+    }
+  ]
+}
